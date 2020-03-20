@@ -1,0 +1,12 @@
+body {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQc1tUW964HMh_sFMBycloHs5qzHe9K5BcK1guhIX2_gLtlD-Vs");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.container {
+  background-color: aquamarine;
+  margin-top: 3%;
+  height: 700px;
+  border: 1px solid black; 
+}
